@@ -1,5 +1,5 @@
 # Data_sample
-WI lab拥有的个人健康数据类型
+WI lab拥有的个人健康数据类型，仅做展示使用
 
 Chinese electronic medical record 中文电子病历,取自哈尔滨医大二院，贵州省兴义市人民医院，浙江省建德市第一人民医院
 
